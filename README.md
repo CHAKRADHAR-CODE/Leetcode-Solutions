@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0054-spiral-matrix](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 ## Hash Table
@@ -16,10 +17,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
