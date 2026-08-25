@@ -11,10 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
