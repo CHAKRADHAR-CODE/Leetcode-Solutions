@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,8 +25,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
+| [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
