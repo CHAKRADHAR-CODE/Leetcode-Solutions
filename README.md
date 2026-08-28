@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
