@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
 ## Dynamic Programming
@@ -77,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 <!---LeetCode Topics End-->
