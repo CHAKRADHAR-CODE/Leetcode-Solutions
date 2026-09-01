@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
