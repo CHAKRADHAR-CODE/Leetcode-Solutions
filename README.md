@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
