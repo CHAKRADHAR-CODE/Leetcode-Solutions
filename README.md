@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
