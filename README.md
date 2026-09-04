@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
