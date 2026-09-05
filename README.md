@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
