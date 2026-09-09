@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Newton's Method
