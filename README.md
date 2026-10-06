@@ -95,11 +95,13 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0392-is-subsequence](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0062-unique-paths](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0204-count-primes](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
