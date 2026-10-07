@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1922-count-good-numbers](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2544-alternating-digit-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -185,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
