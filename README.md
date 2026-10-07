@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1922-count-good-numbers](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +193,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1922-count-good-numbers](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
