@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1922-count-good-numbers](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -213,9 +215,11 @@ Collection of LeetCode questions to ace the coding interview!
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
