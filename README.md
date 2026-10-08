@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0062-unique-paths](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0263-ugly-number/) | Easy |
