@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0201-bitwise-and-of-numbers-range](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1720-decode-xored-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
