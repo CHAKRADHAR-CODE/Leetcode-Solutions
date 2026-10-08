@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1720-decode-xored-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
