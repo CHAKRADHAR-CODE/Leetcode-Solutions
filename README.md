@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1720-decode-xored-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1720-decode-xored-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Stack
