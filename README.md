@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0204-count-primes](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0119-pascals-triangle-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
