@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2317-maximum-xor-after-operations](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2317-maximum-xor-after-operations](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2544-alternating-digit-sum](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
