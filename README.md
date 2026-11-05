@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0498-diagonal-traverse/) | Medium |
 | [0735-asteroid-collision](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1720-decode-xored-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1720-decode-xored-array/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0443-string-compression/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0268-missing-number](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/CHAKRADHAR-CODE/Leetcode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
